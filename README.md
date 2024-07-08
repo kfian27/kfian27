@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kfian27
-- 👀 I’m interested in vue.js, frontend developer and REST API
-- 🌱 I’m currently learning quasar
-- 💞️ I’m looking to collaborate on quasar project or web project
+- 👀 I’m interested in vue.js, react js, next js, express js, laravel, CI, frontend developer and REST API
+- 🌱 I’m currently learning quasar and flutter
+- 💞️ I’m looking to collaborate on other js framework
 - 📫 How to reach me fichajakson@gmail.com
 
 <!---
