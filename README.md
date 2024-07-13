@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning quasar and flutter
 - 💞️ I’m looking to collaborate on other js framework
 - 📫 How to reach me fichajakson@gmail.com
+- find my portofolio on https://kif-five.vercel.app/
 
 <!---
 kfian27/kfian27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
